@@ -1,0 +1,4 @@
+requests=2.32.4
+tqdm=4.67.1
+qrcode=8.2
+pillow=11.2.1

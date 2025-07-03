@@ -1,4 +1,4 @@
-﻿#ُTopSub
+#TopSub
 
 `freenet.pyw` is the main file in this program , you should have `xray` file alongside with the program to run correctly 
 
